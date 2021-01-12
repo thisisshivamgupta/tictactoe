@@ -1,5 +1,5 @@
 // A C++ Program to play tic-tac-toe 
-
+// Useful comments are mentioned to understand the code.
 #include<bits/stdc++.h> 
 using namespace std; 
 
